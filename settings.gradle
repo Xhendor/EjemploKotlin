@@ -1,0 +1,2 @@
+rootProject.name='EjemploKotlin'
+include ':app'
